@@ -26,6 +26,7 @@
 - Click on 'Download JSON'
 - Add it to the directory (important rename tour file to 'client_secret_CLIENTID.json')
 - Run the program
+- You get the spotify playlist ID by looking in the url for the playlist (ex: https://open.spotify.com/playlist/this_is_the_id)
 - When the program asks you to authenticate. Just press the link and follow the steps
 
 ---
