@@ -5,10 +5,7 @@
 ### Requirements:
 
 **COMMANDS**
-- ```pip install webdriver-manager```
-- ```pip install Selenium```
-- ```pip install --upgrade google-api-python-client```
-- ```pip install --upgrade google-auth-oauthlib google-auth-httplib2```
+- ```pip install -r requirements.txt```
 
 **INSTALLATION**
 - Chrome
@@ -16,8 +13,8 @@
 ---
 
 ## How to use the program:
-- Install and run the things that is required
 - Clone the repository
+- Install requirements
 - Create a project from this link **https://console.cloud.google.com/apis/dashboard?**
 - Click libary and search for 'Youtube Data v3' and enable it
 - Click on 'Credentials'
